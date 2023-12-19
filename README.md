@@ -18,4 +18,4 @@ Lift aims to provide a more native experience when playing chess on the lichess 
 
 ## Overview
 
-This is still a **work-in-progress**. The project will be structured following a _microfeatures_-like pattern. Code will be organized in Swift packages and the XCode project will be genrated using [Tuist](https://tuist.io/).align="center">
+This is still a **work-in-progress**. The project will be structured following a _microfeatures_-like pattern. Code will be organized in Swift packages and the XCode project will be genrated using [Tuist](https://tuist.io/).
