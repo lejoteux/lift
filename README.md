@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Lichess-powered chess application written in Swift for Apple platforms</h2>
+  <h2 align="center">Unofficial lichess client written in Swift for Apple platforms</h2>
 </p>
 
 **Lift** (_li[chess in swi]ft_) is a chess application for Apple platforms written in Swift and powered by [Lichess](https://lichess.org/). This is **NOT** an official lichess client, if you are looking for the official lichess mobile application go [here](https://github.com/lichess-org/mobile).
